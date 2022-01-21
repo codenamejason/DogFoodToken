@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+.footer {
+  margin-top: 32px;
+  opacity: 0.8;
+  font-size:  20px;
+}
+
+.footer span {
+  margin: 5px;
+}
+
+.footer .address span {
+  margin: 0;
+}
+
+.fancy-loogie-preview {
+  position: sticky;
+  top: 60px;
+  margin-right: 20px;
+  margin-top:  20px;
+  float: right;
+}
+
+#tabs-accesories > .ant-tabs-nav .ant-tabs-tab {
+  margin: 16px 0 0 0;
+}
+
+.action-inline-button {
+  margin-left: 10px;
+}
+
+.fancy-loogie-action-button {
+  width: 250px;
+}
+
+.your-fancy-loogies .ant-dropdown-trigger {
+  margin-left: 10px;
+}
+
+.ant-tabs-extra-content {
+  flex: 1 1 auto;
+  width:  220px;
+  text-align: left;
+}
+
+#tabs-accesories .ant-tabs-nav {
+  justify-content: flex-start;
+}
+
+#tabs-accesories .ant-tabs-nav .ant-tabs-nav-wrap {
+  flex:  0 0 auto;
+}
+
+.fancy-loogie-preview .ant-tabs-card > .ant-tabs-nav .ant-tabs-tab-active {
+  background-color: #e6f7ff;
+}
